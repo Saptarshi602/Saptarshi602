@@ -2,9 +2,10 @@
 
 ### 👨‍💻 Aspiring Software Engineer | Class 12 (PCM + CS)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=780&lines=Class+12+(PCM+%2B+CS)+Student;Aspiring+Software+Engineer;Building+Backend+APIs)](https://git.io/typing-svg)
+
 I am a dedicated student and self-taught developer balancing rigorous engineering entrance preparations with a strong passion for modern web technologies. I am driven by problem-solving, structured learning, and building practical software solutions.
 
----
 
 ### 🚀 Current Focus
 
@@ -16,9 +17,10 @@ I am a dedicated student and self-taught developer balancing rigorous engineerin
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, JavaScript (Learning)
-* **Frameworks & Architecture:** Next.js, Backend Development, RESTful APIs
-* **Developer Tools:** Git, GitHub, Windows Environment Setup
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
