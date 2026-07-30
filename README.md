@@ -40,6 +40,16 @@ I treat my time and learning process like an engineering project. I maintain a h
 
 ---
 
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saptarshi602/Saptarshi602/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saptarshi602/Saptarshi602/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saptarshi602/Saptarshi602/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ### 📫 Let's Connect
 
 I am actively expanding my professional network and always open to connecting with mentors and peers in the tech industry.
