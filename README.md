@@ -35,4 +35,4 @@ I am a dedicated student and self-taught developer balancing rigorous engineerin
 
 I am always open to learning, receiving professional mentorship, and connecting with others in the tech community!
 
-* **LinkedIn:** [Click here to view my profile](www.linkedin.com/in/saptarshi-goswami-309783426)
+* **LinkedIn:** [Click here to view my profile](https://www.linkedin.com/in/saptarshi-goswami-309783426)
