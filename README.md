@@ -1,6 +1,5 @@
 # Saptarshi Goswami
 
-### 👨‍💻 Aspiring Software Engineer | Class 12 (PCM + CS)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=780&lines=Class+12+(PCM+%2B+CS)+Student;Aspiring+Software+Engineer;Building+Backend+APIs)](https://git.io/typing-svg)
 
