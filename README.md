@@ -13,4 +13,4 @@ I am a Class 12 student (PCM+CS) actively learning modern web development. I foc
 * Minecraft (Hypixel Skyblock)
 
 ### 📫 Let's Connect
-* [Connect with me on LinkedIn](INSERT_YOUR_LINKEDIN_URL_HERE)
+* [Connect with me on LinkedIn](www.linkedin.com/in/saptarshi-goswami-309783426)
