@@ -1,16 +1,38 @@
-# Hi, I'm Saptarshi! 👋
+# Saptarshi Goswami
 
-I am a Class 12 student (PCM+CS) actively learning modern web development. I focus on balancing my core academic entrance exam preparations with building practical programming skills.
+### 👨‍💻 Aspiring Software Engineer | Class 12 (PCM + CS)
 
-### 🌱 Currently Learning
-* Next.js, Python, and Backend APIs
+I am a dedicated student and self-taught developer balancing rigorous engineering entrance preparations with a strong passion for modern web technologies. I am driven by problem-solving, structured learning, and building practical software solutions.
 
-### 🚀 Current Project
-* **School ERP System:** Building a comprehensive school management application. *(The code is currently locked in a private vault until final school grading!)*
+---
 
-### 👾 Hobbies & Interests
-* Structured daily scheduling (balancing study blocks, proper note-taking, and dedicated game time)
-* Minecraft (Hypixel Skyblock)
+### 🚀 Current Focus
+
+* **Academics:** Deeply focused on my Class 12 curriculum and competitive engineering entrance exams, with a long-term goal of pursuing Computer Science Engineering.
+* **Technical Upskilling:** Actively expanding my knowledge in Full-Stack and Backend Development, transitioning from fundamental coding concepts to building functional applications.
+* **Discipline & Workflow:** Maintaining a highly structured daily routine to effectively manage intensive study blocks, technical project work, and organized note-taking.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, JavaScript (Learning)
+* **Frameworks & Architecture:** Next.js, Backend Development, RESTful APIs
+* **Developer Tools:** Git, GitHub, Windows Environment Setup
+
+---
+
+### 📂 Featured Project
+
+**School ERP System (Enterprise Resource Planning)**
+* **Status:** Active Development 
+* **Details:** A comprehensive school management application built as part of my Class 12 Computer Science curriculum. 
+* *Note: The source code is currently hosted in a private repository to strictly maintain academic integrity pending final school grading. It will be made public upon completion of the evaluation.*
+
+---
 
 ### 📫 Let's Connect
-* [Connect with me on LinkedIn](www.linkedin.com/in/saptarshi-goswami-309783426)
+
+I am always open to learning, receiving professional mentorship, and connecting with others in the tech community!
+
+* **LinkedIn:** [Click here to view my profile](INSERT_YOUR_LINKEDIN_URL_HERE)
